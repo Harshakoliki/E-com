@@ -95,69 +95,6 @@ nav ul li{
 
 /* ------------------Main------------------------------ */
 
-/* .Main{
-    margin: 75px;
-    padding: 0px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-.adds{
-    width: 100%;
-    height: 100%;
-    border-radius: 10px; 
-
-       
-}
-.addsS{
-    width: 500%;
-    height: 500%;
-    display: flex;
-}
-.addsS input{
-    display: none;
-}
-.addsI{
-    width: 20%;
-    transition: 3s;
-}
-.addsI img{
-    width: 1080px;
-    height: 500px;
-}
-.nav-manu{
-    position: absolute;
-    width: 1080px;
-    margin-top: 500px;
-    display: flex;
-    justify-content: center;
-
-}
-.manu-btn{
-    border: 3px solid lightseagreen;
-    padding: 5px;
-    margin: 5px;
-    cursor: pointer;
-    border-radius: 10px;
-    transition: 1s;
-}
-.manu-btn:not(:last-child){
-    margin-right: 30px;
-}
-.manu-btn:hover{
-    background: tomato;
-}
-
-#radio1:checked ~ .first{margin-left: 0px;}
-#radio2:checked ~ .first{margin-left: -20px;}
-#radio3:checked ~ .first{margin-left: -40px;}
-#radio4:checked ~ .first{margin-left: -60px;}
- */
-
-
-
-
 
 
  .Main{
