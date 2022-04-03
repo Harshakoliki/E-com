@@ -60,7 +60,7 @@ nav ul li{
 .cart img:hover{
     background: tomato;
 }
-.cloths_flex{
+.beauty_flex{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
